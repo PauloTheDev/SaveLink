@@ -54,7 +54,7 @@ or
   
   <li>
   5. Access the web interface <br>
-  <code> [your-browser] localhost:8000</code>
+  <code> [your-browser] localhost:8000</code> <br>
   If you want use in other device of your network, type this in your browser: <br>
   <code>http://[IP server-machine]:8000</code>
   </li>
