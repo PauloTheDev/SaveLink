@@ -49,5 +49,7 @@ or
   <li> Python3 </li>
   <li> JavaScript </li>
   <li> HTML5 </li>
-  <li> CSS3 ,/li>
+  <li> CSS3 </li>
 </ul>
+<hr>
+<p>Live longer and prosper🖖</p>
