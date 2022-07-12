@@ -1,0 +1,59 @@
+/*=========GLOBAL SETTINGS=========*/
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/*==========HEADER AREA==========*/
+
+#title{
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Edu Beginner';
+    
+    font-weight: 500;
+
+    transition: 2s;
+    animation: showText 2s;
+}
+
+body{
+
+    height: 100vh;
+    
+    background: rgb(6,0,38);
+    background: linear-gradient(0deg, rgba(6,0,38,0.9556197478991597) 6%, rgb(22, 7, 151) 100%);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    
+    
+}
+
+/*==========MAIN AREA==========*/
+
+main{
+    display: flex;
+    flex-direction: column;
+    
+
+    align-items: center;
+}
+
+#main-text{
+    font-size: 2rem;
+    font-family: 'Edu Beginner';
+}
+
+.data-area{
+    text-align: center;
+
+    margin-bottom:43px;
+
+    width: 80vw;
+    height: auto;
+    padding: 20px;
+
+    border-radius: 15px;
+
+    background-color: rgb(0, 68, 255);
+}
