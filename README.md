@@ -30,17 +30,33 @@ or
 
 <h3>How use SaveLink</h3>
 <ul>
+
   <li>
   1. Made a git clone
   <br>
   <code>git clone https://github.com/PauloTheDev/SaveLink</code>
   </li>
+  
   <li>
   2. Access diretory of SaveLink
+  </li>
+  
   <li>
-  3. Call the application
+  3. Create a local server <br>
+  <code>python3 -m http.server</code>
+  </li>
+  
+  <li>
+  4. Call the application
   <br>
   <code> python3 saveLink.py </code>
+  </li>
+  
+  <li>
+  5. Access the web interface <br>
+  <code> [your-browser] localhost:8000</code>
+  If you want use in other device of your network, type this in your browser: <br>
+  <code>http://[IP server-machine]:8000</code>
   </li>
 </ul>
 <hr>
